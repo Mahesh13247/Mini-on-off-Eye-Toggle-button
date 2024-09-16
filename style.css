@@ -2,8 +2,8 @@
     /* Define size, transition properties, and color variables */
     --sz: 10vmin;
     --tr: all 0.5s ease 0s;
-     --c-on-1: #fe6201;
-    --c-on-2: #ff0000; 
+     --c-on-1: #fe017b;
+    --c-on-2: #fe017bc7; 
     
     --c-off-1: #224056;
     --c-off-2: #000000;
